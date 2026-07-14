@@ -2,7 +2,7 @@
 
 A sleek, glassmorphic dark-themed **Student Grade Management System** built with Python, Streamlit, and Plotly. This platform provides an intuitive administrative dashboard to register students, update biographical details, record module marks, generate dynamic transcripts, and view advanced subject-level analytics.
 
-🔗 **[Live Production Deployment App](https://student-grade-management-system.streamlit.app/)**
+🔗 **Live Application:**https://student-grade-management-system.streamlit.app/
 
 ---
 
