@@ -1,0 +1,40 @@
+[
+    {
+        "roll_no": "382CO",
+        "name": "Islam Khan",
+        "age": 22,
+        "course": "B. Tech.",
+        "marks": {
+            "Python": 99,
+            "Machine Learning": 95
+        },
+        "percentage": 97.0,
+        "grade": "A"
+    },
+    {
+        "roll_no": "570DD",
+        "name": "Ankit Singh",
+        "age": 21,
+        "course": "B. Tech.",
+        "marks": {
+            "E.M.": 80,
+            "Digital Electronics": 92
+        },
+        "percentage": 86.0,
+        "grade": "B"
+    },
+    {
+        "roll_no": "KD444",
+        "name": "Israil Khan",
+        "age": 20,
+        "course": "BSc",
+        "marks": {
+            "Physics-I": 75,
+            "Physics-II": 89,
+            "Organic Chemistry": 86,
+            "Inorganic Chemistry": 92
+        },
+        "percentage": 85.5,
+        "grade": "B"
+    }
+]
